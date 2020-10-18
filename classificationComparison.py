@@ -97,7 +97,7 @@ def logReg_StocGD(x, y, t, epoch):
 ##########
 #reading in data
     
-data = pd.read_csv('/Users/Molly/Documents/USF/MATH373/heart.csv')
+data = pd.read_csv('~/heart.csv')
 list(data.columns.values)
 
 X = data.copy()
