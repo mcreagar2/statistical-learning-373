@@ -1,3 +1,8 @@
+#Author: Molly Creagar
+#python code to use Principle Component Analysis (PCA) on MNIST data
+#PCA written from scratch
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow
