@@ -1,4 +1,4 @@
-%Classification of the Iris dataset (available on Kaggle)
+#Classification of the Iris dataset (available on Kaggle)
 
 import numpy as np
 import matplotlib.pyplot as plt
